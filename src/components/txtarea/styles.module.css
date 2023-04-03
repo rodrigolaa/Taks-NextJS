@@ -1,0 +1,10 @@
+.txtarea {
+    width: 100% !important;
+    resize: none;
+    height: 160px !important;
+    border-radius: 8px;
+    outline: none;
+    padding: 8px;
+    
+}
+
